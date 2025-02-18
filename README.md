@@ -9,7 +9,6 @@ LibSys is a simple command-line Library Management System built in Java. It allo
 - Return issued books.
 - View all books in the library.
 - View all registered members.
-- User-friendly command-line interface.
 
 ## Technologies Used
 - Java
@@ -31,7 +30,7 @@ LibSys is a simple command-line Library Management System built in Java. It allo
    ```
 3. Compile the Java files:
    ```sh
-   javac *.javaa
+   javac *.java
    ```
 4. Run the program:
    ```sh
@@ -49,6 +48,6 @@ LibSys is a simple command-line Library Management System built in Java. It allo
 ## Demo
 Here’s a preview of the system in action:
 
-[![Library Management System Demo](https://vumbnail.com/1057841660.jpg)](https://vimeo.com/1057841660)
+[Watch the demo video]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1duOkAfUvrvWnG3ITUE3iSrclaN7gyoPb/view?usp=drive_link))
 
-> *(Click the image to watch the demo video on Vimeo.)*
+> *(Click the link to watch the demo video on Google Drive.)*
