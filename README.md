@@ -49,4 +49,6 @@ LibSys is a simple command-line Library Management System built in Java. It allo
 ## Demo
 Here’s a preview of the system in action:
 
-[Watch the demo video](https://github.com/maxxweldmello/LibSys/raw/main/lib-sys.mp4)
+[![Library Management System Demo](https://vumbnail.com/1057841660.jpg)](https://vimeo.com/1057841660)
+
+> *(Click the image to watch the demo video on Vimeo.)*
