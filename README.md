@@ -38,23 +38,6 @@ LibSys is a simple command-line Library Management System built in Java. It allo
    java Main
    ```
 
-## Usage
-Upon running the program, you will be presented with a menu:
-1. Add a new book
-2. Add a new member
-3. Issue a book
-4. Return a book
-5. View all books
-6. View all members
-7. Exit
-
-Follow the prompts to interact with the system.
-
-## Demo
-Here’s a preview of the system in action:
-
-[![Library Management System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/maxxweldmello/LibSys/raw/main/lib-sys.mp4)
-
 ## Code Structure
 ```
 ├── Main.java        # Entry point of the application
@@ -62,3 +45,8 @@ Here’s a preview of the system in action:
 ├── Book.java        # Defines Book attributes and behaviors
 ├── Member.java      # Defines Member attributes and behaviors
 ```
+
+## Demo
+Here’s a preview of the system in action:
+
+[Watch the demo video](https://github.com/maxxweldmello/LibSys/raw/main/lib-sys.mp4)
