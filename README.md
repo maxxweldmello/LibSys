@@ -48,6 +48,6 @@ LibSys is a simple command-line Library Management System built in Java. It allo
 ## Demo
 Here’s a preview of the system in action:
 
-[Watch the demo video]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1duOkAfUvrvWnG3ITUE3iSrclaN7gyoPb/view?usp=drive_link))
+[Watch the demo video](https://drive.google.com/file/d/1duOkAfUvrvWnG3ITUE3iSrclaN7gyoPb/view?usp=drive_link)
 
 > *(Click the link to watch the demo video on Google Drive.)*
