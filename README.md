@@ -15,10 +15,15 @@ LibSys is a simple command-line Library Management System built in Java. It allo
 - Java
 - Object-Oriented Programming (OOP)
 
+## Installation & Usage
+### Prerequisites
+- Java Development Kit (JDK) installed.
+- A Java IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code) or command-line setup.
+
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/LibSys.git
+   git clone https://github.com/maxxweldmello/LibSys.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -26,7 +31,7 @@ LibSys is a simple command-line Library Management System built in Java. It allo
    ```
 3. Compile the Java files:
    ```sh
-   javac *.java
+   javac *.javaa
    ```
 4. Run the program:
    ```sh
@@ -45,12 +50,15 @@ Upon running the program, you will be presented with a menu:
 
 Follow the prompts to interact with the system.
 
+## Demo
+Here’s a preview of the system in action:
+
+[![Library Management System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/maxxweldmello/LibSys/raw/main/lib-sys.mp4)
+
 ## Code Structure
-- `Main.java` - Entry point for the application, providing the CLI interface.
-- `Library.java` - Manages books and members.
-- `Book.java` - Represents a book with details like ID, title, author, and issued status.
-- `Member.java` - Represents a library member with an assigned ID and book issue details.
-
-## License
-This project is open-source and free to use under the MIT License.
-
+```
+├── Main.java        # Entry point of the application
+├── Library.java     # Manages books and members
+├── Book.java        # Defines Book attributes and behaviors
+├── Member.java      # Defines Member attributes and behaviors
+```
