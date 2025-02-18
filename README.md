@@ -37,14 +37,6 @@ LibSys is a simple command-line Library Management System built in Java. It allo
    java Main
    ```
 
-## Code Structure
-```
-├── Main.java        # Entry point of the application
-├── Library.java     # Manages books and members
-├── Book.java        # Defines Book attributes and behaviors
-├── Member.java      # Defines Member attributes and behaviors
-```
-
 ## Demo
 Here’s a preview of the system in action:
 
